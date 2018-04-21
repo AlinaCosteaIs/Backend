@@ -1,1 +1,1 @@
-﻿BuildTrigger = 777777
+﻿BuildTrigger = 99999
